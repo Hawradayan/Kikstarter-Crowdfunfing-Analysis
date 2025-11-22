@@ -30,10 +30,10 @@ The goal is to explore which types of projects perform best and how funding leve
 
 ## **Key Findings**
 
-* Film & Video and Music categories have the most projects and highest overall funding.
+* **Film & Video** and **Music** categories have the most projects and highest overall funding.
 * A Huge percentage of projects become **over-funded** (54%).
 * Success rate is **56.51%**.
-* Average raised amount shows steady growth from 2010 to late 2011.
+* Average raised amount shows **steady growth** from 2010 to late 2011.
 * **Technology**, **Design** showed significant increase over this period.
 
 ---
